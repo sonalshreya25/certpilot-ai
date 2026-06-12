@@ -1,0 +1,59 @@
+{
+  "certifications": [
+    {
+      "id": "AZ-204",
+      "role": "Cloud Engineer",
+      "skills": [
+        "API Development",
+        "Azure Functions",
+        "Storage",
+        "Authentication"
+      ],
+      "recommended_hours": 20,
+      "target_practice_score": 75
+    },
+    {
+      "id": "AZ-400",
+      "role": "DevOps Engineer",
+      "skills": [
+        "CI/CD",
+        "Monitoring",
+        "GitHub Actions",
+        "Infrastructure as Code"
+      ],
+      "recommended_hours": 25,
+      "target_practice_score": 75
+    },
+    {
+      "id": "DP-203",
+      "role": "Data Engineer",
+      "skills": [
+        "Data Pipelines",
+        "Azure Data Lake",
+        "Synapse",
+        "Data Modeling"
+      ],
+      "recommended_hours": 22,
+      "target_practice_score": 75
+    },
+    {
+      "id": "AI-102",
+      "role": "AI Engineer",
+      "skills": [
+        "Azure AI Services",
+        "RAG",
+        "Prompt Engineering",
+        "Responsible AI"
+      ],
+      "recommended_hours": 24,
+      "target_practice_score": 75
+    },
+    {
+  "id": "PL-300",
+  "role": "Business Analyst",
+  "skills": ["Power BI", "DAX", "Data Modeling", "Dashboards"],
+  "recommended_hours": 18,
+  "target_practice_score": 75
+}
+  ]
+}
