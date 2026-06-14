@@ -92,10 +92,8 @@ Expected result: the system should classify the learner as not fully ready, expl
 ## Next milestones
 
 1. Improve local retrieval with embeddings.
-2. Add test cases and evaluation rubric.
 3. Integrate Microsoft Foundry project endpoint.
-4. Add a more polished dashboard.
-5. Record a short demo video.
+
 
 
 ## Official contest submission assets
@@ -108,17 +106,4 @@ This repository includes additional submission material in the `docs/` folder:
 - `project_page_description.md`
 - `submission_checklist.md`
 
-Before final submission, provide:
-- Public GitHub repository link
-- YouTube or Vimeo demo video link, 5 minutes max
-- Architecture diagram
-- Project description
-- Team member info if applicable
 
-## Contest rule safety notes
-
-- This project is original work for the contest.
-- The demo uses synthetic data only.
-- No real customer data, employee data, PII, credentials, API keys, or confidential material are included.
-- `.env` is ignored by Git.
-- Demo video should avoid third-party copyrighted/trademarked material unless permission is obtained.
