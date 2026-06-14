@@ -34,6 +34,9 @@ Future work: replace local retrieval with Microsoft Foundry / Foundry IQ, add Fo
 
 This project uses only fictional learners, employee IDs, teams, certification data, and workload signals. It does not use customer data, real employee data, PII, credentials, or proprietary information.
 
+## Demo Video Link
+https://youtu.be/4oJUp-yM4qU
+
 ## Run locally
 
 ```bash
