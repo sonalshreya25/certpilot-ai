@@ -1,6 +1,5 @@
 # Architecture Diagram
 
-Use this Mermaid diagram in your README or convert it to an image for the submission.
 
 ```mermaid
 flowchart TD
